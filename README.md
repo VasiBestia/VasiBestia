@@ -1,97 +1,77 @@
-<p align="center">
-  <img src="https://assets.everspringpartners.com/90/ff/d0282b3c483d9c7f71aedccbe808/marquette-business-career-blog.jpg" alt="Marquette Business Career Blog" width="80%" />
-</p>
-<h1 align="center">Hi 👋, I'm Vasilescu Alexandru Gabriel</h1>
-<h3 align="center">A passionate softwareEnginner from Romania</h3>
-<p align="center">
-  <img src="https://www.rkinfotechindia.com/wp-content/uploads/2023/05/Work-from-home-culture-What-are-the-pros-and-cons.png" alt="Work from Home Culture: Pros and Cons" width="80%" />
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Vasilescu Alexandru Gabriel</h1>
+  <h3>Software Engineer | Backend & Data Engineering | Automation & Computers Student</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable%2C+data-driven+systems;Turning+raw+data+into+structured+intelligence;Backend+%7C+Data+Engineering+%7C+Machine+Learning" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasibestia&label=Profile%20views&color=0e75b6&style=flat" alt="vasibestia" /> </p>
+---
 
-- 🔭 I’m currently working on **a student**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **programming languages or sports**
+I am a 3rd-year **Automation and Computers** student and software engineer focused on building efficient, scalable, and data-driven systems. I enjoy working across backend development, systems programming, data engineering, and machine learning.
 
-- 📫 How to reach me **andreea.alexandra.vasi.16@gmail.com**
+- 💬 **Ask me about:** Backend Architecture, Databases, Algorithms, or System Design
+- ⚡ **Fun fact:** I love turning raw, chaotic data into structured, actionable intelligence.
+- 📫 **Reach me at:** [andreea.alexandra.vasi.16@gmail.com](mailto:andreea.alexandra.vasi.16@gmail.com)
 
-- ⚡ Fun fact **I know to be sudo in all the things i can do**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Facebook -->
-  <a href="https://fb.com/alexandru vasilescu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandru vasilescu" height="30" width="40" />
+## 🧠 Core Interests
+`🖥️ Backend & Distributed Systems` `🗄️ Databases & Data Engineering` `⚙️ Algorithms & Data Structures` `🤖 Machine Learning & Neural Networks` `🌐 High-Performance Computing`
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+### 🗄️ Databases & Data Engineering
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<br>
+*Advanced querying, window functions, ETL pipelines, Star Schema, Medallion Architecture.*
+
+### 🤖 AI / ML / CV
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<br>
+*Neural Networks, Regression Models, Optimization (Gradient Descent, Newton Method).*
+
+---
+
+## 🚀 Featured Projects
+
+| Domain | Highlights & Technologies |
+| :--- | :--- |
+| **🏆 Tournament Systems** | Graph-based ranking systems, AVL/BST structures, tournament automation. |
+| **🗄️ Data Engineering** | ETL pipelines, SQL Server data warehouse, analytics with star schema. |
+| **🎮 Systems & Simulation** | C/C++ high-performance systems using custom data structures (queues, stacks, trees). |
+| **🤖 AI / ML Projects** | Neural networks, regression models, optimization comparisons. |
+| **🖼️ Image Processing** | OpenCV watermarking, metadata scrubbing, concurrency-based processing. |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VasiBestia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="VasiBestia GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasiBestia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="VasiBestia Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vasilescu-alexandru-gabriel-8b2905322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  
-  <!-- Instagram -->
-  <a href="https://instagram.com/vasi_ag16" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasi_ag16" height="30" width="40" />
-  </a>
-  
-  <!-- Discord -->
-  <a href="https://discord.gg/Alexvleo10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alexvleo10" height="30" width="40" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vasilescu-alexandru-gabriel-8b2905322" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:andreea.alexandra.vasi.16@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
-  </a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-<table width="100%">
-  <tr>
-    <td style="width:50%; text-align:left;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasibestia&show_icons=true&locale=en&layout=compact" alt="vasibestia" />
-    </td>
-    <td style="width:50%; text-align:right;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vasibestia&show_icons=true&locale=en" alt="vasibestia" />
-    </td>
-  </tr>
-</table>
-
-<!-- A treia imagine pe linia următoare, centrată -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasibestia&" alt="vasibestia" />
-</p>
-
-
-
-
+</div>
